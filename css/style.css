@@ -4266,3 +4266,12 @@
 h2.nav-brand {
     width: 20%;
 }
+
+
+
+@media (max-width: 576px) {
+    
+h2.nav-brand {
+    width: 55%;
+}
+}
