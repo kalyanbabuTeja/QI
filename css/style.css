@@ -4274,4 +4274,8 @@ h2.nav-brand {
 h2.nav-brand {
     width: 55%;
 }
+.call-on {
+    color: #fff;
+    font-weight: 600;
+}
 }
